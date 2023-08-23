@@ -1,4 +1,8 @@
-# Pregatire Informatica C
+# Pregătire Informatică C/C++
+
+## Proiect:
+- Proiectul a fost realizat cu scopul de a ajuta bobocii Facultății de Automatică și Calculatoare.
+- Ședințele sunt organizate o dată pe săptămână, aproximativ 2 ore, de-alungul lunii septembrie.
 
 ## Modulul I:
 - Introducere în C++
