@@ -1,4 +1,4 @@
-# Pregatire-Informatica-C
+# Pregatire Informatica C
 
 ## Modulul I:
 - Introducere în C++
