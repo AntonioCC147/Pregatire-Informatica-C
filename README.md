@@ -13,10 +13,10 @@
 ## Modulul II:
 - Tablouri Bidimensionale
 - Șiruri de Caracter
-- Funcțiile Șirurilor de Caractere
+- Structuri de Date
 
 ## Modulul III:
-- Funcții Predefinite de Utilizator
+- Funcții Definite de Utilizator
 - Subprograme Recursive
 - Backtracking
 - Grafuri
