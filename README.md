@@ -26,3 +26,5 @@
 - Introducere în C (Citiri, Afișări, Fișiere Text, Etc)
 
 ## Feedback: [https://forms.gle/CrENibtyD5TS72Vi7]
+
+## Înregistrări: [https://drive.google.com/drive/folders/11X2QdK1X6RP5UoXi4SnzEdqVfqU4nCzj?usp=sharing]
