@@ -24,3 +24,5 @@
 ## Modulul IV:
 - Nelămuriri și întrebări referitoare la ședințele anterioare
 - Introducere în C (Citiri, Afișări, Fișiere Text, Etc)
+
+## Feedback: [https://forms.gle/CrENibtyD5TS72Vi7]
